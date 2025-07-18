@@ -69,9 +69,6 @@ pip install numpy pandas scikit-learn nltk matplotlib networkx
 📚 NLTK vorbereiten
 Führe im Notebook einmal folgenden Code aus, um die Stoppwörter herunterzuladen:
 
-python
-Kopieren
-Bearbeiten
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
